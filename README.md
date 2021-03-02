@@ -16,6 +16,6 @@ Select training mode - 1 player mode - scroll max left player 2 controller on st
 
 In the two-player mode, the winner is the first player to score 15 points.
 
-Trybie dla jednego gracza (zawodnik 2) gra się na punkty. Punkty zdobywasz za każde odbicie * poziom. Gra kończy się gdy przepuścisz 15 piłek.
+The single player mode (player 2) is played for points. You get points for every bounce * level. The game ends when you miss 15 balls.
 
 ![My Pico-Pong-2021](./My-Pico-Pong-2021.jpg)
