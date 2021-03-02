@@ -18,4 +18,4 @@ In the two-player mode, the winner is the first player to score 15 points.
 
 Trybie dla jednego gracza (zawodnik 2) gra się na punkty. Punkty zdobywasz za każde odbicie * poziom. Gra kończy się gdy przepuścisz 15 piłek.
 
-![My Pico-Pong-2021](https://photos.app.goo.gl/29RjGQEKLSwHFGL27)
+![My Pico-Pong-2021](./My-Pico-Pong-2021.jpg)
