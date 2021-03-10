@@ -11,7 +11,7 @@ Player 1 controller - GP26
 Player 2 controller - GP27
 
 Start button - GP15
-Select level button GP16
+Select level button GP14 
 Select training mode - 1 player mode - scroll max left player 2 controller on start screen to turn on training mode
 
 In the two-player mode, the winner is the first player to score 15 points.
