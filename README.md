@@ -26,3 +26,5 @@ In the two-player mode, the winner is the first player to score 15 points.
 The single player mode (player 2) is played for points. You get points for every bounce * level. The game ends when you miss 15 balls.
 
 ![My Pico-Pong-2021](./My-Pico-Pong-2021.jpg)
+
+Project description in Polish: [Markdown - Link](#http://jerzy.jasonek.pl/blog/Projekt-Pico-Pong-2021)
