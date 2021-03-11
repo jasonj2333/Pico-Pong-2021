@@ -27,4 +27,4 @@ The single player mode (player 2) is played for points. You get points for every
 
 ![My Pico-Pong-2021](./My-Pico-Pong-2021.jpg)
 
-Project description in Polish: [Markdown - Link](#http://jerzy.jasonek.pl/blog/Projekt-Pico-Pong-2021)
+Project description in Polish: [on my blog - jerzy.jasonek.pl/blog](http://jerzy.jasonek.pl/blog/Projekt-Pico-Pong-2021)
